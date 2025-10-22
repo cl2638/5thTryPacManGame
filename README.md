@@ -1,7 +1,7 @@
 # Pac-Man Particle Demo
 
 ## Overview
-This is a single-level Pac-Man-style game built in **Godot 4.4** using **C#**.  
+This is a single-level Pac-Man-style game built in **Godot 4.5 mono** using **C#**.  
 The project primarily demonstrates **CPUParticle2D particle effects** triggered when the player collects coins.
 
 ## Game Structure
