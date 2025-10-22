@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://dn73ng1anyy7i"]
+
+[ext_resource type="Texture2D" uid="uid://b4waq1xraj8t3" path="res://nuclear-explosion-png-30060.png" id="1_gwhdl"]
+
+[node name="AlienDeathParticleScene" type="CPUParticles2D"]
+emitting = false
+amount = 50
+texture = ExtResource("1_gwhdl")
+one_shot = true
+speed_scale = 0.2
+spread = 180.0
+gravity = Vector2(0, 0)
+initial_velocity_min = 53.4
+initial_velocity_max = 165.05

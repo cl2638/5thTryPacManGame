@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://ccs1dtjke38bg"]
+
+[ext_resource type="Texture2D" uid="uid://tvh8t0er3gys" path="res://—Pngtree—lens flare white sparkling light_8415861.png" id="1_4xn16"]
+
+[node name="SparkleParticles" type="CPUParticles2D"]
+emitting = false
+amount = 50
+texture = ExtResource("1_4xn16")
+lifetime = 1.53
+speed_scale = 64.0
+explosiveness = 1.0
+spread = 180.0
+gravity = Vector2(0, 0)
+initial_velocity_min = 58.25
+initial_velocity_max = 79.83
+scale_amount_min = 0.01
+scale_amount_max = 0.03
