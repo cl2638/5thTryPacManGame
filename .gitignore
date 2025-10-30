@@ -1,3 +1,19 @@
 # Godot 4+ specific ignores
 .godot/
-/android/
+export/
+bin/
+obj/
+
+# Mono/.NET build folders
+**/bin/
+**/obj/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
+
+# User-specific editor settings
+*.import
+*.mono
+
