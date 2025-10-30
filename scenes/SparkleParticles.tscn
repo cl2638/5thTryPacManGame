@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://ccs1dtjke38bg"]
 
-[ext_resource type="Texture2D" uid="uid://tvh8t0er3gys" path="res://—Pngtree—lens flare white sparkling light_8415861.png" id="1_4xn16"]
+[ext_resource type="Texture2D" uid="uid://bngcyh6diuwtn" path="res://assets/—Pngtree—white sparkle vector_9046805.png" id="1_4xn16"]
 
 [node name="SparkleParticles" type="CPUParticles2D"]
 emitting = false

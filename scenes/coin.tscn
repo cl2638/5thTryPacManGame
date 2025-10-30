@@ -1,8 +1,8 @@
 [gd_scene load_steps=18 format=3 uid="uid://xg1b2dgwhril"]
 
-[ext_resource type="Script" uid="uid://q05e7yunceo0" path="res://Pickup.cs" id="1_0t63x"]
+[ext_resource type="Script" uid="uid://cjqvi4uqxtu1p" path="res://Scripts/Pickup.cs" id="1_0t63x"]
 [ext_resource type="Texture2D" uid="uid://cqa1vpqutr41j" path="res://assets/coin.png" id="1_d5gmh"]
-[ext_resource type="PackedScene" uid="uid://ccs1dtjke38bg" path="res://SparkleParticles.tscn" id="2_v7riw"]
+[ext_resource type="PackedScene" uid="uid://ccs1dtjke38bg" path="res://scenes/SparkleParticles.tscn" id="2_v7riw"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0t63x"]
 atlas = ExtResource("1_d5gmh")

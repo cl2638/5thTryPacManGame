@@ -1,7 +1,7 @@
 [gd_scene load_steps=11 format=3 uid="uid://o3hf74pboei3"]
 
+[ext_resource type="Script" uid="uid://ctnfl8g4g00la" path="res://Scripts/Enemy.cs" id="1_ft8do"]
 [ext_resource type="Texture2D" uid="uid://ctmx8w4s67j3p" path="res://assets/IDLE.PNG" id="1_obmiq"]
-[ext_resource type="Script" uid="uid://ba88wnpprpw3l" path="res://Ghost.cs" id="1_xtt71"]
 [ext_resource type="Texture2D" uid="uid://bs3rtb27ub11m" path="res://assets/WALK_1.PNG" id="2_xtt71"]
 [ext_resource type="Texture2D" uid="uid://b3e507y1x7s73" path="res://assets/WALK_2 (1).PNG" id="3_kjq22"]
 
@@ -54,7 +54,7 @@ animations = [{
 
 [node name="Enemy" type="CharacterBody2D" groups=["enemy"]]
 scale = Vector2(0.5, 0.5)
-script = ExtResource("1_xtt71")
+script = ExtResource("1_ft8do")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CircleShape2D_hiw70")
