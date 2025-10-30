@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://dsyrl3qjppxeo" path="res://scenes/player.tscn" id="1_o5qli"]
 [ext_resource type="Texture2D" uid="uid://cq8k3e8ehynfv" path="res://assets/platformerautotiletemplate.png" id="1_sugp2"]
 [ext_resource type="Texture2D" uid="uid://7n44nga40nxy" path="res://assets/stone_bricks.png" id="1_tbgi4"]
-[ext_resource type="PackedScene" uid="uid://o3hf74pboei3" path="res://Enemy.tscn" id="5_tbgi4"]
+[ext_resource type="PackedScene" uid="uid://o3hf74pboei3" path="res://scenes/Enemy.tscn" id="5_tbgi4"]
 [ext_resource type="PackedScene" uid="uid://xg1b2dgwhril" path="res://scenes/coin.tscn" id="6_tefeu"]
 [ext_resource type="Script" uid="uid://cj2qp6i3kqiit" path="res://scenes/GameManager.cs" id="7_o6xl0"]
 

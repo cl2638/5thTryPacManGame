@@ -12,6 +12,7 @@ config_version=5
 
 config/name="PacManGame2Dcs420a4"
 run/main_scene="uid://dva5ex1n7wcp4"
+config/use_custom_user_dir=true
 config/features=PackedStringArray("4.5", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
